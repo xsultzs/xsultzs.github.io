@@ -1,0 +1,14 @@
+User-Agent: *
+Disallow:
+
+Sitemap: https://xsultzs.github.io/sitemap_Jvg.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_NdJRz.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_WbiZ.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_YIb.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_ZtRPW.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_aTmQ.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_akDd.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_iBWXP.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_tuRw.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_wCxZ.xml.gz
+Sitemap: https://xsultzs.github.io/sitemap_wLI.xml.gz
